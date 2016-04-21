@@ -1,0 +1,12 @@
+c:\users\jeugenio\documents\visual studio 2015\Projects\CopyDirectory\CopyDirectory\bin\Debug\CopyDirectory.exe.config
+c:\users\jeugenio\documents\visual studio 2015\Projects\CopyDirectory\CopyDirectory\bin\Debug\CopyDirectory.exe
+c:\users\jeugenio\documents\visual studio 2015\Projects\CopyDirectory\CopyDirectory\bin\Debug\CopyDirectory.pdb
+c:\users\jeugenio\documents\visual studio 2015\Projects\CopyDirectory\CopyDirectory\obj\Debug\CopyDirectory.csprojResolveAssemblyReference.cache
+c:\users\jeugenio\documents\visual studio 2015\Projects\CopyDirectory\CopyDirectory\obj\Debug\CopyDirectory.Form1.resources
+c:\users\jeugenio\documents\visual studio 2015\Projects\CopyDirectory\CopyDirectory\obj\Debug\CopyDirectory.Properties.Resources.resources
+c:\users\jeugenio\documents\visual studio 2015\Projects\CopyDirectory\CopyDirectory\obj\Debug\CopyDirectory.csproj.GenerateResource.Cache
+c:\users\jeugenio\documents\visual studio 2015\Projects\CopyDirectory\CopyDirectory\obj\Debug\CopyDirectory.exe
+c:\users\jeugenio\documents\visual studio 2015\Projects\CopyDirectory\CopyDirectory\obj\Debug\CopyDirectory.pdb
+F:\HDNew\Visual Studio 2015\Projects\CopyDirectory\CopyDirectory\bin\Debug\CopyDirectory.exe.config
+F:\HDNew\Visual Studio 2015\Projects\CopyDirectory\CopyDirectory\obj\Debug\CopyDirectory.exe
+F:\HDNew\Visual Studio 2015\Projects\CopyDirectory\CopyDirectory\obj\Debug\CopyDirectory.pdb
